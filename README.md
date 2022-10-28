@@ -1,3 +1,3 @@
 # miprimercaso
 practica de vsc
-wfgfdg
+Suma de dos numeros
